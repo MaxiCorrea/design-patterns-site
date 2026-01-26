@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdesign_patterns_site=globalThis.webpackChunkdesign_patterns_site||[]).push([[5127],{7767(e){e.exports=JSON.parse('{"metadata":{"permalink":"/design-patterns-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

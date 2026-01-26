@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdesign_patterns_site=globalThis.webpackChunkdesign_patterns_site||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/design-patterns-site/blog","blogTitle":"Blog","authorsListPath":"/design-patterns-site/blog/authors"}')}}]);
