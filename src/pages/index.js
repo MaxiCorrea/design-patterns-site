@@ -11,7 +11,7 @@ export default function Home() {
     >
       <header className={styles.hero}>
         <img
-          src="/img/avatar.jpeg"
+          src="https://maxicorrea.github.io/design-patterns-site/img/avatar.jpeg"
           alt="Maxi Correa"
           className={styles.avatar}
         />
