@@ -74,14 +74,14 @@ El diseño define cómo se usa el framework.
 
 Cada patrón sigue una estructura consistente:
 
-1. Contexto y problema real
-2. Solución clásica (cuando aplica)
-3. Implementación moderna en Java
-4. Encaje (o no) en arquitectura hexagonal
-5. Trade-offs reales
-6. Alternativas actuales
-7. Código completo en GitHub
-8. Tests explicativos
+1. ¿Se usa hoy en arquitectura hexagonal?
+2. Cómo se implementa hoy (vs GoF)
+3. Anti-ejemplo tipico
+4. Reemplazo
+5. Ejemplo
+6. Regla de oro
+7. Frase final
+8. Video
 
 ---
 
